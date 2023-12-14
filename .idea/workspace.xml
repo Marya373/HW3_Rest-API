@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89410280-6d17-4c8f-a3f5-1e242e502708" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/location/AdministrativeArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/location/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/location/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weather/DailyForecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weather/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weather/Headline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weather/Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weather/Minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weather/Night.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weather/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weather/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/accuweather/AccuweatherAbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/accuweather/ForecastsFiveDaysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/accuweather.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/accuweather_demo.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/accuweather_home.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/accuweather_seminar.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/demo_spoonacular.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/home_spoonacular.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/seminar_spoonacular.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/spoonacular.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZS3XTY4dTdV8VBtiuEj1mnwkEj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Владислав/IdeaProjects/AutoTestsHW3"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Владислав\IdeaProjects\AutoTestsHW3\src\test\java" />
+      <recent name="C:\Users\Владислав\IdeaProjects\AutoTestsHW3\src\test" />
+      <recent name="C:\Users\Владислав\IdeaProjects\AutoTestsHW3\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ForecastsFiveDaysTest.testResponseDateLocation">
+    <configuration name="ForecastsFiveDaysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestsHW3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="accuweather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="accuweather" />
+      <option name="MAIN_CLASS_NAME" value="accuweather.ForecastsFiveDaysTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForecastsFiveDaysTest.testGetResponseForecasts10Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestsHW3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="accuweather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="accuweather" />
+      <option name="MAIN_CLASS_NAME" value="accuweather.ForecastsFiveDaysTest" />
+      <option name="METHOD_NAME" value="testGetResponseForecasts10Days" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForecastsFiveDaysTest.testGetResponseForecasts15Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestsHW3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="accuweather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="accuweather" />
+      <option name="MAIN_CLASS_NAME" value="accuweather.ForecastsFiveDaysTest" />
+      <option name="METHOD_NAME" value="testGetResponseForecasts15Days" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForecastsFiveDaysTest.testGetResponseForecasts1Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestsHW3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="accuweather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="accuweather" />
+      <option name="MAIN_CLASS_NAME" value="accuweather.ForecastsFiveDaysTest" />
+      <option name="METHOD_NAME" value="testGetResponseForecasts1Days" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForecastsFiveDaysTest.testResponseDateLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestsHW3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="accuweather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="accuweather" />
+      <option name="MAIN_CLASS_NAME" value="accuweather.ForecastsFiveDaysTest" />
+      <option name="METHOD_NAME" value="testResponseDateLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ForecastsFiveDaysTest.testResponseDateLocation" />
+        <item itemvalue="JUnit.ForecastsFiveDaysTest.testGetResponseForecasts1Days" />
+        <item itemvalue="JUnit.ForecastsFiveDaysTest.testGetResponseForecasts10Days" />
+        <item itemvalue="JUnit.ForecastsFiveDaysTest.testGetResponseForecasts15Days" />
+        <item itemvalue="JUnit.ForecastsFiveDaysTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89410280-6d17-4c8f-a3f5-1e242e502708" name="Changes" comment="" />
+      <created>1702401695282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702401695282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
